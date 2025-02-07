@@ -1,0 +1,20 @@
+[KEY]
+AZAZEL_5
+
+[PATH]
+Sprite\AZAZEL_5.sprite
+
+[ATLAS_KEY]
+azazel_5
+[ATLAS_PATH]
+Texture\azazel_5.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+

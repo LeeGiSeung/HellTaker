@@ -1,0 +1,20 @@
+[KEY]
+LINK_IDLEDOWN_1
+
+[PATH]
+Sprite\LINK_IDLEDOWN_1.sprite
+
+[ATLAS_KEY]
+Link
+[ATLAS_PATH]
+Texture\link_32.bmp
+
+[LEFT_TOP]
+120, 0
+
+[SLICE]
+120, 130
+
+[OFFSET]
+0, 0
+

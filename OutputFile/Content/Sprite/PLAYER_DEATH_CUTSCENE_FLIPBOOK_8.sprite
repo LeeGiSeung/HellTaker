@@ -1,0 +1,20 @@
+[KEY]
+PLAYER_DEATH_CUTSCENE_FLIPBOOK_8
+
+[PATH]
+Sprite\PLAYER_DEATH_CUTSCENE_FLIPBOOK_8.sprite
+
+[ATLAS_KEY]
+dialogueDeathExport_8
+[ATLAS_PATH]
+Texture\dialogueDeathExport_8.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+1568, 480
+
+[OFFSET]
+0, 0
+

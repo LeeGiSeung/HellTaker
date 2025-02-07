@@ -1,0 +1,20 @@
+[KEY]
+TRANSITION_27
+
+[PATH]
+Sprite\TRANSITION_27.sprite
+
+[ATLAS_KEY]
+transition27
+[ATLAS_PATH]
+Texture\transition_27.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+1924, 604
+
+[OFFSET]
+0, 0
+

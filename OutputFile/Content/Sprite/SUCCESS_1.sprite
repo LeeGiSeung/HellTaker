@@ -1,0 +1,20 @@
+[KEY]
+SUCCESS_1
+
+[PATH]
+Sprite\SUCCESS_1.sprite
+
+[ATLAS_KEY]
+success_1
+[ATLAS_PATH]
+Texture\success_1.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+1100, 200
+
+[OFFSET]
+0, 0
+

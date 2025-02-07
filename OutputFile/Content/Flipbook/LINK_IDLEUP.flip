@@ -1,0 +1,14 @@
+[KEY]
+LINK_IDLEUP
+[PATH]
+Flipbook\LINK_IDLEUP.flip
+
+[SPRITE_COUNT]
+1
+[INDEX]
+0
+[KEY]
+LINK_IDLEUP_0
+[PATH]
+Sprite\LINK_IDLEUP_0.sprite
+

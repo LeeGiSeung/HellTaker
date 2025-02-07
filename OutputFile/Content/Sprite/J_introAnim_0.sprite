@@ -1,0 +1,20 @@
+[KEY]
+J_introAnim_0
+
+[PATH]
+Sprite\J_introAnim_0.sprite
+
+[ATLAS_KEY]
+J_introAnim_0
+[ATLAS_PATH]
+Texture\J_introAnim_0.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+732, 524
+
+[OFFSET]
+0, 0
+

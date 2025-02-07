@@ -1,0 +1,20 @@
+[KEY]
+WHITE_FIRE_7
+
+[PATH]
+Sprite\WHITE_FIRE_7.sprite
+
+[ATLAS_KEY]
+WhiteFire_7
+[ATLAS_PATH]
+Texture\WhiteFire_7.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+120, 116
+
+[OFFSET]
+0, 0
+

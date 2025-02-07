@@ -1,0 +1,20 @@
+[KEY]
+KICK_VFX_1_2
+
+[PATH]
+Sprite\KICK_VFX_1_2.sprite
+
+[ATLAS_KEY]
+Kick_vfx1_2
+[ATLAS_PATH]
+Texture\Kick_vfx1_2.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+

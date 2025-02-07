@@ -1,0 +1,20 @@
+[KEY]
+RIGHT_GEAR_4
+
+[PATH]
+Sprite\RIGHT_GEAR_4.sprite
+
+[ATLAS_KEY]
+sinGearsRIGHT_4
+[ATLAS_PATH]
+Texture\sinGearsRIGHT_4.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+400, 300
+
+[OFFSET]
+0, 0
+

@@ -1,0 +1,20 @@
+[KEY]
+KICK_LEFT_7
+
+[PATH]
+Sprite\KICK_LEFT_7.sprite
+
+[ATLAS_KEY]
+heroKick_left_7
+[ATLAS_PATH]
+Texture\heroKick_left_7.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 220
+
+[OFFSET]
+0, 0
+

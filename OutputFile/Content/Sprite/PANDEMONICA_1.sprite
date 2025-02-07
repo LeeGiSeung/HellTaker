@@ -1,0 +1,20 @@
+[KEY]
+PANDEMONICA_1
+
+[PATH]
+Sprite\PANDEMONICA_1.sprite
+
+[ATLAS_KEY]
+pandemonica_1
+[ATLAS_PATH]
+Texture\pandemonica_1.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+

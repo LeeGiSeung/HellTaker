@@ -1,0 +1,20 @@
+[KEY]
+MOVE_VFX_2_2
+
+[PATH]
+Sprite\MOVE_VFX_2_2.sprite
+
+[ATLAS_KEY]
+Move_vfx2_2
+[ATLAS_PATH]
+Texture\Move_vfx2_2.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+

@@ -1,0 +1,20 @@
+[KEY]
+FIRE_2
+
+[PATH]
+Sprite\FIRE_2.sprite
+
+[ATLAS_KEY]
+fire_2
+[ATLAS_PATH]
+Texture\fire_2.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+120, 116
+
+[OFFSET]
+0, 0
+

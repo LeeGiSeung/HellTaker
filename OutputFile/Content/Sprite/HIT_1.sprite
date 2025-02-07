@@ -1,0 +1,20 @@
+[KEY]
+HIT_1
+
+[PATH]
+Sprite\HIT_1.sprite
+
+[ATLAS_KEY]
+MonsterDamaged_1
+[ATLAS_PATH]
+Texture\MonsterDamaged_1.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 220
+
+[OFFSET]
+0, 0
+

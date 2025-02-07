@@ -1,0 +1,20 @@
+[KEY]
+PISTON_5
+
+[PATH]
+Sprite\PISTON_5.sprite
+
+[ATLAS_KEY]
+sinPiston_5
+[ATLAS_PATH]
+Texture\sinPiston_5.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+240, 800
+
+[OFFSET]
+0, 0
+

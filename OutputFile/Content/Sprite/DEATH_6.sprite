@@ -1,0 +1,20 @@
+[KEY]
+DEATH_6
+
+[PATH]
+Sprite\DEATH_6.sprite
+
+[ATLAS_KEY]
+death_P_6
+[ATLAS_PATH]
+Texture\death_P_6.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+720, 1232
+
+[OFFSET]
+0, 0
+

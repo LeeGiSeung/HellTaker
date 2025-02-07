@@ -1,0 +1,20 @@
+[KEY]
+SMILE_11
+
+[PATH]
+Sprite\SMILE_11.sprite
+
+[ATLAS_KEY]
+heroSmile_11
+[ATLAS_PATH]
+Texture\heroSmile_11.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 220
+
+[OFFSET]
+0, 0
+

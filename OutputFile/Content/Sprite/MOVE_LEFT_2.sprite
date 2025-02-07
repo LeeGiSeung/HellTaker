@@ -1,0 +1,20 @@
+[KEY]
+MOVE_LEFT_2
+
+[PATH]
+Sprite\MOVE_LEFT_2.sprite
+
+[ATLAS_KEY]
+heroMove_left_2
+[ATLAS_PATH]
+Texture\heroMove_left_2.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 220
+
+[OFFSET]
+0, 0
+

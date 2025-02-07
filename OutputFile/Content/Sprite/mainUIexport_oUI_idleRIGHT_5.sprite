@@ -1,0 +1,20 @@
+[KEY]
+mainUIexport_oUI_idleRIGHT_5
+
+[PATH]
+Sprite\mainUIexport_oUI_idleRIGHT_5.sprite
+
+[ATLAS_KEY]
+mainUIexport_oUI_idleRIGHT_5
+[ATLAS_PATH]
+Texture\mainUIexport_oUI_idleRIGHT_5.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+640, 548
+
+[OFFSET]
+0, 0
+

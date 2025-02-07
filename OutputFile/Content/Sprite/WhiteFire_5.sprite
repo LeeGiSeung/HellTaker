@@ -1,0 +1,20 @@
+[KEY]
+WhiteFire_5
+
+[PATH]
+Sprite\WhiteFire_5.sprite
+
+[ATLAS_KEY]
+WHITE_FIRE_5
+[ATLAS_PATH]
+Texture\WHITE_FIRE_5.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+0, 0
+
+[OFFSET]
+0, 0
+

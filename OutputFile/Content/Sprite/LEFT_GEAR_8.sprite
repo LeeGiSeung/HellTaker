@@ -1,0 +1,20 @@
+[KEY]
+LEFT_GEAR_8
+
+[PATH]
+Sprite\LEFT_GEAR_8.sprite
+
+[ATLAS_KEY]
+sinGears_8
+[ATLAS_PATH]
+Texture\sinGears_8.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+400, 300
+
+[OFFSET]
+0, 0
+

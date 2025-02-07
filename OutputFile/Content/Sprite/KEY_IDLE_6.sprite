@@ -1,0 +1,20 @@
+[KEY]
+KEY_IDLE_6
+
+[PATH]
+Sprite\KEY_IDLE_6.sprite
+
+[ATLAS_KEY]
+Key_6
+[ATLAS_PATH]
+Texture\Key_6.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 220
+
+[OFFSET]
+0, 0
+

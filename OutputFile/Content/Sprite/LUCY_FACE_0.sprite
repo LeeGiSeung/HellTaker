@@ -1,0 +1,20 @@
+[KEY]
+LUCY_FACE_0
+
+[PATH]
+Sprite\LUCY_FACE_0.sprite
+
+[ATLAS_KEY]
+LH_face_0
+[ATLAS_PATH]
+Texture\LH_face_0.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+152, 152
+
+[OFFSET]
+0, 0
+

@@ -1,0 +1,20 @@
+[KEY]
+LH_swirl_8
+
+[PATH]
+Sprite\LH_swirl_8.sprite
+
+[ATLAS_KEY]
+LH_swirl_8
+[ATLAS_PATH]
+Texture\LH_swirl_8.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+536, 748
+
+[OFFSET]
+0, 0
+

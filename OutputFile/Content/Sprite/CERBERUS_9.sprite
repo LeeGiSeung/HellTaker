@@ -1,0 +1,20 @@
+[KEY]
+CERBERUS_9
+
+[PATH]
+Sprite\CERBERUS_9.sprite
+
+[ATLAS_KEY]
+cerberus_finalModel_9
+[ATLAS_PATH]
+Texture\cerberus_finalModel_9.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+

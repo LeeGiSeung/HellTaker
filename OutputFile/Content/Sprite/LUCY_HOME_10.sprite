@@ -1,0 +1,20 @@
+[KEY]
+LUCY_HOME_10
+
+[PATH]
+Sprite\LUCY_HOME_10.sprite
+
+[ATLAS_KEY]
+lucyH_finalModel_10
+[ATLAS_PATH]
+Texture\lucyH_finalModel_10.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+

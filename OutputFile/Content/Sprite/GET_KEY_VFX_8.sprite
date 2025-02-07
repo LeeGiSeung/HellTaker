@@ -1,0 +1,20 @@
+[KEY]
+GET_KEY_VFX_8
+
+[PATH]
+Sprite\GET_KEY_VFX_8.sprite
+
+[ATLAS_KEY]
+GetKeyVFX_8
+[ATLAS_PATH]
+Texture\GetKeyVFX_8.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+340, 340
+
+[OFFSET]
+0, 0
+

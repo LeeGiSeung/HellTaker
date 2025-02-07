@@ -1,0 +1,20 @@
+[KEY]
+BOOPER_5
+
+[PATH]
+Sprite\BOOPER_5.sprite
+
+[ATLAS_KEY]
+booper_5
+[ATLAS_PATH]
+Texture\booper_5.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+

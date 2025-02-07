@@ -1,0 +1,20 @@
+[KEY]
+HERO_LEFT_IDLE_10
+
+[PATH]
+Sprite\HERO_LEFT_IDLE_10.sprite
+
+[ATLAS_KEY]
+hero_left_10
+[ATLAS_PATH]
+Texture\hero_left_10.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 220
+
+[OFFSET]
+0, 0
+
