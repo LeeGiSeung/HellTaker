@@ -4,4 +4,4 @@
 https://www.notion.so/Hell-Taker-122f3c6764898062afa1d420c84f9ee6
 
 아래 유튜브 채널에서 플레이 영상 확인 하실 수 있습니다.
-https://www.youtube.com/watch?v=mu0y7f7zoNM&t=840s
+https://www.youtube.com/watch?v=mu0y7f7zoNM&t
