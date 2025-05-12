@@ -7,5 +7,5 @@
 👉 [Notion](https://far-seagull-e93.notion.site/Hell-Taker-122f3c6764898062afa1d420c84f9ee6)
 
 ## 🎮 게임 플레이 스크린샷
-![플레이](images/ncvhh928d8g51.png)
 ![플레이](images/lucy.gif)
+![플레이](images/ncvhh928d8g51.png)
