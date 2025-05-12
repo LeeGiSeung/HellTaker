@@ -8,5 +8,5 @@
 
 ## 🎮 게임 플레이 스크린샷
 ![플레이](images/HellTaker_3.gif)
-![플레이](images/lucy.gif)
+![플레이](images/HellTaker_.gif)
 ![플레이](images/ncvhh928d8g51.png)
