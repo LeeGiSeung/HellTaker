@@ -8,4 +8,4 @@
 
 ## 🎮 게임 플레이 스크린샷
 ![플레이 샷1](images/ncvhh928d8g51.png)
-![플레이 샷2](images/ss_6b1135e5c398eb1e19200dc5e2a49275ce5878b0.1920x1080.png)
+![실행 GIF](images/damageChain.gif)
